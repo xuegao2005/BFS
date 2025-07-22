@@ -1,4 +1,4 @@
-![image-20250603114624876](../assets/image-20250603114624876.png)
+![image-20250603114624876](https://github.com/xuegao2005/BFS/blob/main/image-20250603114624876.png)
 
 手写队列
 
